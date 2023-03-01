@@ -3,7 +3,7 @@
 1. run `npm install` to install node modules
 2. start project with `npm start` or `node index.js`
 
-#github repository
+# github repository
 https://github.com/Jahir509/test-rs-lab
 
 **A beta version is being hosted on linux server of this workable project at 103.163.116.18:3001  **
