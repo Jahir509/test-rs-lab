@@ -1,4 +1,3 @@
-# test-rs-lab
 
 # project setup
 1. run `npm install` to install node modules
@@ -9,7 +8,7 @@ https://github.com/Jahir509/test-rs-lab
 
 **A beta version is being hosted on linux server of this workable project at 103.163.116.18:3001  **
 
-#API'S - Multiple Endpoint
+# API'S - Multiple Endpoint
     Task: 1.Count how many documents don't have the 'rider' property
     
     ->Api: "103.163.116.18:3001/api/riders/count"
@@ -24,7 +23,7 @@ https://github.com/Jahir509/test-rs-lab
 
     ->Api: "103.163.116.18:3001/api/riders/collection"
 
-#API'S - Single Endpoint
+# API'S - Single Endpoint
     "A single enpoint is also available for query three different types of data based on query string"
     -> Api: "103.163.116.18:3001"/api/query/search
             
